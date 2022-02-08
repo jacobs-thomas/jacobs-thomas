@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋
+My name is Tom Jacobs and I am a programming student from the Univeristy of Suffolk ('UoS').
 <!--
 **UntitledProgrammer/UntitledProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
