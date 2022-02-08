@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on 'Polygon' (My 2D game engine).
+- 🌱 I’m currently learning 'Graphics Programming' & 'Tools Programming'.
