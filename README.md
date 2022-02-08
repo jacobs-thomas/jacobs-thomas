@@ -1,6 +1,6 @@
 # Hi there 👋
 My name is Tom Jacobs and I am a programming student from the Univeristy of Suffolk ('UoS').
-I specialise in 'Game Programming' which means I will very likely be programming anything from game engines to artificial intelligence; in c++ of course.
+I specialise in 'Game Programming' which means you will likely find me programming anything from game engines to artificial intelligence; in c++ of course.
 <!--
 **UntitledProgrammer/UntitledProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
