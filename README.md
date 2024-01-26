@@ -1,6 +1,7 @@
 # Hi there 👋
-My name is Tom Jacobs and I am a programming student from the Univeristy of Suffolk ('UoS').
-I specialise in 'Game Programming' which means you will likely find me programming anything from game engines to artificial intelligence; in c++ of course.
+I'm Tom Jacobs, a programmer and MSc Advanced Computing student at the University of Suffolk (UoS).
+I have a background in computer game programming, with a particular interest in engine and graphics programming; however, I have since diversified into a range of broader software development environments.
+I typically work with various front-end and back-end languages, from dynamic languages such as Python to static languages such as C. That said, with my background, I still frequently work with C/C++ and occasionally Rust or C#. 
 <!--
 **UntitledProgrammer/UntitledProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on 'Polygon' (My 2D game engine).
-- 🌱 I’m currently learning 'Graphics Programming' & 'Tools Programming'.
+- 🔭 I’m currently working on... my dissertation, which combines AI (specifically, Finite State Automata & Random Forests) with adaptive interaction design.
+- 🌱 I’m currently learning... advanced software engineering.
