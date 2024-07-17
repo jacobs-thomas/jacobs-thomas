@@ -1,7 +1,7 @@
 # Hi there 👋
-I'm Tom Jacobs, a programmer and MSc Advanced Computing student at the University of Suffolk (UoS).
-I have a background in computer game programming, with a particular interest in engine and graphics programming; however, I have since diversified into a range of broader software development environments.
-I typically work with various front-end and back-end languages, from dynamic languages such as Python to static languages such as C. That said, with my background, I still frequently work with C/C++ and occasionally Rust or C#. 
+I'm Tom Jacobs, a programmer and MSc Advanced Computing student at the University of Suffolk (UoS). My initial background was in computer game programming, with a strong focus on engine and graphics programming. However, I have since expanded my expertise into a wide range of software development environments.
+
+I work with a variety of front-end and back-end languages, ranging from dynamic languages like Python and Monkey C to static languages like C. Despite my broad skill set, I still prefer strongly typed languages, frequently using C/C++ and occasionally working with Rust or C#, leveraging my extensive experience in these areas.
 <!--
 **UntitledProgrammer/UntitledProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on... my dissertation, which combines AI (specifically, Finite State Automata & Random Forests) with adaptive interaction design.
-- 🌱 I’m currently learning... advanced software engineering.
+- 🔭 I’m currently working on... my dissertation, which details innovative research in adaptive interaction design using Neural Networks and Random Forests.
+- 🌱 I’m currently learning... Advanced Software Engineering, Cloud Computing, and Human-Computer Interaction.
