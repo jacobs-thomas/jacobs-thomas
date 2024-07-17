@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Tom Jacobs, a programmer and MSc Advanced Computing student at the University of Suffolk (UoS). My initial background was in computer game programming, with a strong focus on engine and graphics programming. However, I have since expanded my expertise into a wide range of software development environments.
+I'm Thomas Jacobs, a programmer and MSc Advanced Computing student at the University of Suffolk (UoS). My initial background was in computer game programming, with a strong focus on engine and graphics programming. However, I have since expanded my expertise into a wide range of software development environments.
 
 I work with a variety of front-end and back-end languages, ranging from dynamic languages like Python and Monkey C to static languages like C. Despite my broad skill set, I still prefer strongly typed languages, frequently using C/C++ and occasionally working with Rust or C#, leveraging my extensive experience in these areas.
 <!--
